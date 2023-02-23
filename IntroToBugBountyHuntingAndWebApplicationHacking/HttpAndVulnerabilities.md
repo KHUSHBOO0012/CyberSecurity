@@ -1,4 +1,4 @@
-Burp Suite or Developer console
+Burp Suite or Developer console  
 Foxy Proxy chrome extension for sending request with decrypting, install CA certificate.
 
 ## Open Redirect
